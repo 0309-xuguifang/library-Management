@@ -1,0 +1,197 @@
+
+.container{
+    margin:0;
+    padding:0;
+}
+
+.banner{
+    width:100%;
+    height:50px;
+    background-color:#333;
+    border-radius: 3px;
+    color:white;
+    margin-bottom: 8px;
+}
+.username{
+    width:80px;
+    height:50px;
+    line-height:50px;
+    float: left;
+}
+.content{
+    width:100%;
+    height:100%;
+}
+.banner_left{
+    float:left;
+    width:30%;
+    height:50px;
+    line-height: 50px;
+    color: white;
+    font-size: 25px;
+}
+.banner_right{
+    float: right;
+    width:70%;
+    height:50px;
+    color: white;
+}
+.user_login{
+    line-height: 50px;
+}
+.banner_right a{
+    width:100px;
+    text-align: center;
+    height:50px;
+    margin-left: 7px;
+    float: right;
+    display:inline;
+    color: white;
+    font-size:16px;
+    font-family:"微软雅黑";
+    text-decoration: none;
+    line-height:50px;
+}
+.banner_right a:hover:not(.active) {
+    background-color: #111;
+}
+.left_side{
+    float:left;
+    width:20%;
+    height:100%;
+    background-color:#333;
+    border-radius: 3px 3px 0px 0px;
+    margin-right: 5px;
+    box-shadow: 4px 4px 2px 2px grey;
+}
+.right_side{
+    float: right;
+    width:79%;
+    height:100%;
+    background: white;
+    border-radius: 3px 3px;
+}
+.left_side a{
+    width:100%;
+    text-align: center;
+    height:50px;
+    margin-left: 10px;
+    float: right;
+    display:inline-block;
+    color: white;
+    font-size:16px;
+    text-decoration: none;
+    line-height:50px;
+}
+.left_side a:hover:not(.active) {
+    background-color: #111;
+}
+.info{
+    font-size:18px;
+    font-family:"微软雅黑";
+    text-align:center;
+}
+.box1{
+    text-align:center;
+    margin-top:10px;
+    padding:3px;
+    margin-bottom:5px;
+}
+.peInfo{
+    align:center;
+    padding-top:10px;
+    border-radius: 3px 3px;
+}
+.RecOver_submit{
+    width:65px;
+    height:25px;
+    background:steelblue;
+    color:white;
+    font:14px bold white;
+    border-radius: 3px;
+}
+.select-peInfo{
+    width:100%;
+    height:300px;
+    border: grey;
+    height: 250px;
+    margin-bottom: 10px;
+}
+.update-salary{
+    width:100%;
+    margin: 0 auto;
+    height: 110px;
+    border:1px solid grey;
+    text-align: center;
+}
+table{
+    width: 100%;
+    text-align: center;
+}
+table th{
+    background: grey;
+    color: white;
+}
+table td{
+    background: 	#D3D3D3;
+}
+.title{
+    border:0.01em solid grey;
+    border-radius: 4px 4px 0px 0px;
+    height:20px;
+    line-height:20px;
+    background-color:grey;
+    color:white;
+    font-size:13px;
+}
+.panel1{
+    width: 100%;
+    height:100px;
+}
+.check-select
+{
+    font-family:"微软雅黑";
+    font-size:15px;
+    line-height:80px;
+    text-align:center;
+    padding-top:15px;
+
+}
+.panel{
+    width:400px;
+    height:300px;
+    padding-top:15px;
+    margin-top:10px;
+    margin:0 auto;
+
+}
+.add-text{
+    text-align:center;
+    font-size:16px;
+    font-family:"微软雅黑";
+}
+.add-content{
+    text-align:center;
+}
+.box1{
+    text-align:center;
+    margin-top:10px;
+    padding:3px;
+    margin-bottom:5px;
+}
+.deleteBtn{
+    background: red;
+    color: white;
+    border:0.01em solid grey;
+}
+.update{
+    background: #FF6347;
+    color: white;
+    border:0.01em solid grey;
+}
+.right_center{
+    margin: 0 auto;
+}
+.peInfoSalary2{
+    margin: 0 auto;
+}
